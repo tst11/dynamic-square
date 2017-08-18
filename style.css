@@ -1,0 +1,16 @@
+label {
+  display: block;
+  margin-bottom: 3px;
+}
+
+label span {
+  color: red;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+canvas {
+  display: block;
+}
