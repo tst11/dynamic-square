@@ -1,4 +1,4 @@
-# dynamic-square
+# Dynamic Square with dynamic mini squares
 
 ## [Link to live web](https://tst11.github.io/dynamic-square/)
 
